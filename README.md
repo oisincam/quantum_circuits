@@ -1,2 +1,3 @@
 # quantum_circuits
-Python code relevant to quantum computing 
+Example of quantum circuits simulated using the stim package in Python. 
+
